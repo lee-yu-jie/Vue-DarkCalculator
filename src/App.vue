@@ -149,6 +149,4 @@ main{
     100%{box-shadow: 0 0 90px rgb(78, 78, 78)}
   }
 }
-
-
 </style>
